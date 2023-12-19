@@ -18,7 +18,7 @@ There are thousands of mutual funds in the U.S. Vanguard offers 266 funds, and i
 
 - **Similar Question Generation:**
 
-Similarly, two other sets of questions are also made in order to compare how good the RAG generated question and answer pairs are
+Similarly, two other sets of questions are also made in order to compare how good the RAG generated question and answer pairs are compared to contextual and zero shot similar qa pairs
 
 ```jsx
 (question, answer, [contextual similar questions],[0 shot similar questions])
